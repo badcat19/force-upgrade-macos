@@ -1,2 +1,2 @@
 # force-upgrade-macos
-Custom erase-install.sh that forces users to upgrade their macOS devices
+The script is used to upgrade your Mac to the lastest approved macOS Version
